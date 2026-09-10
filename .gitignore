@@ -1,0 +1,7 @@
+*.log
+.vscode
+.ps_Store
+Thumbs.bd
+.env
+/tmp
+ReadmeInstall.md
